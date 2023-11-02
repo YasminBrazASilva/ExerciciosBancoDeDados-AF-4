@@ -15,14 +15,14 @@ Observe a tabela não normalizada de uma locadora de veículos e aplique a 3ª F
    ![ExercicioModeloLogico4_1_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioModeloLogico4_1_2.png)<br>
 
 ---
-
 ### ETAPA 2: CRIAÇÃO DAS TABELAS
+
 A criação das tabelas pode ser vista em: [Exercicio4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_2.sql) <br> 
   ![ExercicioTela4_2_1.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_2_1.png)
   ![ExercicioTela4_2_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_2_2.png)
   ![ExercicioTela4_2_3.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_2_3.png)
----
 
+---
 ### ETAPA 3: ADICIONAR DADOS À TABELA
   * A criação da stored procedure **selecionarTudo** pode ser vista em: [Exercicio4_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_3_1.sql) <br>
   * A criação da stored procedure **novoCliente** pode ser vista em: [Exercicio4_3_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_3_2.sql) <br>
@@ -35,5 +35,5 @@ A criação das tabelas pode ser vista em: [Exercicio4_2.sql](https://github.com
 --- 
 
 ### ETAPA 4: CRIAÇÃO DAS VIEWS DERIVADAS
-* Crie uma view que seleciona todas as locações e seus respectivos veículos e clientes: [Exercicio4_4_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_4_1.sql)
-    * Resultado: [ExercicioRelatorio4_4_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioRelatorio4_4_1.csv) 
+* Crie uma view que seleciona todas as locações e seus respectivos veículos e clientes: [Exercicio4_4.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_4.sql)
+    * Resultado: [ExercicioRelatorio4_4.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioRelatorio4_4_1.csv) 
