@@ -9,6 +9,8 @@ Observe a tabela não normalizada de uma locadora de veículos e aplique a 3ª F
 ![Exercicio4_1_1_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_1_1_2.png)<br>
 ![Exercicio4_1_1_3.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_1_1_3.png)<br>
 
+
+Faça o modelo lógico de banco de dados relacional<br>
 * Modelo conceitual: <br>
    ![ExercicioModeloConceitual4_1_2.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioModeloConceitual4_1_2.png)<br>
 * Modelo lógico: <br>
@@ -16,6 +18,7 @@ Observe a tabela não normalizada de uma locadora de veículos e aplique a 3ª F
 
 ---
 ### ETAPA 2: CRIAÇÃO DAS TABELAS
+Escreva o script que cria as tabelas<br>
 
 A criação das tabelas pode ser vista em: [Exercicio4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_2.sql) <br> 
   ![ExercicioTela4_2_1.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_2_1.png)
@@ -34,7 +37,6 @@ A criação das tabelas pode ser vista em: [Exercicio4_2.sql](https://github.com
 
 --- 
 
-### ETAPA 4: CRIAÇÃO DAS VIEWS DERIVADAS
+### ETAPA 4: CRIAÇÃO DA VIEW DERIVADA
 * Crie uma view que seleciona todas as locações e seus respectivos veículos e clientes: [Exercicio4_4.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_4.sql)
-* Resultado: <br>
-       ![ExercicioTela4_4.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_4.png)
+![ExercicioTela4_4.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_4.png)
