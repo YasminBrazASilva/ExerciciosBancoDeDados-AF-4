@@ -1,6 +1,6 @@
 vcl_id,vcl_placa,vcl_modelo,vcl_cor,vcl_diaria
-301,Fusca,Preto,WER-3456,30.00
-302,Variante,Rosa,FDS-8384,60.00
-303,Comodoro,Preto,CVB-9933,20.00
-304,Deloriam,Azul,FGH-2256,80.00
-305,Brasília,Amarela,DDI-3948,45.00
+301,WER-3456,Fusca,Preto,30.00
+302,FDS-8384,Variante,Rosa,60.00
+303,CVB-9933,Comodoro,Preto,20.00
+304,FGH-2256,Deloriam,Azul,80.00
+305,DDI-3948,Brasília,Amarela,45.00
