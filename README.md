@@ -36,4 +36,5 @@ A criação das tabelas pode ser vista em: [Exercicio4_2.sql](https://github.com
 
 ### ETAPA 4: CRIAÇÃO DAS VIEWS DERIVADAS
 * Crie uma view que seleciona todas as locações e seus respectivos veículos e clientes: [Exercicio4_4.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/Exercicio4_4.sql)
-    * Resultado: [ExercicioRelatorio4_4.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioRelatorio4_4.csv) 
+* Resultado: <br>
+       ![ExercicioTela4_4.png](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-4/blob/main/ExercicioTela4_4.png)
